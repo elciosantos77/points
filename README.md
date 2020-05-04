@@ -1,7 +1,7 @@
-DOTZ API
+POINTS API
 =====================
 
-Projeto realizado para teste de conhecimento para a empresa Dotz.
+Projeto realizado para teste de conhecimento.
 
 ## Pré-requisitos para execução do projeto
 - .NET Core SDK 2.2
@@ -33,15 +33,6 @@ Projeto realizado para teste de conhecimento para a empresa Dotz.
 
 - Deve-se utilizar docker para execução de containers em linux.
 - Escolher o docker-compose como StartUp Project
-
-## Hospedagem
-
-- A aplicação foi hospedada no Azure WebApp for Container 
-- URL: https://dotz-api.azurewebsites.net
-
-
-## Serviços da Azure Utilizados
- - WebApp for Containers (Serviço para execução de aplicativos em container, escalável de forma manual ou automática)
 
 ## Implementações futuras
 - Health checks
